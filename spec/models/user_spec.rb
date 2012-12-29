@@ -90,7 +90,6 @@ describe User do
     
   end
 
-
   describe "when email address is already taken" do
      before do
       user_with_the_same_email = @user.dup
