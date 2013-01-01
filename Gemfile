@@ -5,6 +5,12 @@ gem 'bootstrap-sass', '2.0.4'
 gem 'pg', '0.12.2'
 # To use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.0.1'
+# Faker gem will create mutliple users for us
+gem 'faker', '1.0.1'
+# For pagination
+gem 'will_paginate', '3.0.3'
+gem 'bootstrap-will_paginate'
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
