@@ -30,12 +30,20 @@ describe "Authentication" do
         it { should_not have_selector('div.alert.alert-error') }
         
       end
+
+      describe "Profile and Settings links should not appear when user not signed in" do
+        let(:user) { FactoryGirl.create(:user) }
+
+        it { should_not have_link('Profile') }
+        it { should_not have_link('Settings') }
+ 
+      end
       
     end
 
     describe "with valid information" do
       let(:user) { FactoryGirl.create(:user) }
-      before { valid_signin(user) }
+      before { sign_in(user) }
 
       it { should have_selector('title',    text: user.name) }
 
@@ -51,6 +59,14 @@ describe "Authentication" do
         before { click_link "Sign out" }
 
         it { should have_link("Sign in") }
+        
+      end
+
+      describe "signed user should not access to new and create actions" do
+
+        before { visit signup_path }
+
+        it { should_not have_selector('title', text: 'Sign Up') }
         
       end
 
@@ -87,6 +103,22 @@ describe "Authentication" do
           
           it "should render the desired protected page" do
             page.should have_selector('title',    text: 'Edit user')
+          end
+
+          describe "when signing in again" do
+
+            before do
+              delete signout_path
+              visit signin_path
+              fill_in "Email",     with: user.email
+              fill_in "Password",  with: user.password
+              click_button "Sign in"
+            end
+
+            it "should render the default (profile) page" do
+              page.should have_selector('title',  text: user.name)
+            end
+            
           end
 
         end

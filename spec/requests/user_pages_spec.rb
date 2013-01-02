@@ -35,7 +35,7 @@ describe "User Page" do
         fill_in "Name",           with: "Example User"
         fill_in "Email",          with: "user@example.com"
         fill_in "Password",       with: "foobar"
-        fill_in "Confirmation",   with: "foobar"
+        fill_in "Confirm Password",   with: "foobar"
 
       end
 
@@ -72,7 +72,10 @@ describe "User Page" do
 
     let(:user) { FactoryGirl.create(:user) }
 
-    before { visit user_path(user) }
+    before do
+      sign_in user
+      visit user_path(user)
+    end
 
     it { should have_selector('h1',       text: user.name) }
     it { should have_selector('title',    text: user.name) }
@@ -165,6 +168,11 @@ describe "User Page" do
           expect { click_link('delete') }.to change(User, :count).by(-1)
         end
         it { should_not have_link('delete', href: user_path(admin)) }
+
+        describe "cannot destroy themselves" do
+          before { delete user_path(admin) }
+          specify { response.should redirect_to(root_path) }
+        end
       end
       
     end
