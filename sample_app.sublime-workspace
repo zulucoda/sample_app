@@ -1,0 +1,2314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"un",
+				"unfollowed_post"
+			],
+			[
+				"creat",
+				"create"
+			],
+			[
+				"mi",
+				"micropost"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"mic",
+				"micropost"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"bef",
+				"before"
+			],
+			[
+				"de",
+				"des	describe \"description\" do … end"
+			],
+			[
+				"let",
+				"let	let"
+			],
+			[
+				"cl",
+				"cla	class << self .. end"
+			],
+			[
+				"shou",
+				"should"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"on",
+				"only"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"hav",
+				"have_content"
+			],
+			[
+				"e",
+				"eac-	each_cons(..) { |group| .. }"
+			],
+			[
+				"ass",
+				"associations"
+			],
+			[
+				"new",
+				"newer_micropost"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"ra",
+				"raise	expect raise_error"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"M",
+				"Mircopost"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"Sig",
+				"Sign"
+			],
+			[
+				"si",
+				"signin_path"
+			],
+			[
+				"vis",
+				"visit"
+			],
+			[
+				"sig",
+				"signing"
+			],
+			[
+				"f",
+				"f.	f.label (ffl)"
+			],
+			[
+				"S",
+				"Settings"
+			],
+			[
+				"sign",
+				"sign_in"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"ch",
+				"change"
+			],
+			[
+				"re",
+				"respond_to"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"visi",
+				"visit"
+			],
+			[
+				"return",
+				"return_to"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"it",
+				"it	it \"should description\" do … end"
+			],
+			[
+				"cli",
+				"click_button"
+			],
+			[
+				"wro",
+				"wrong_user"
+			],
+			[
+				"sub",
+				"submitting"
+			],
+			[
+				"wo",
+				"wrong_user"
+			],
+			[
+				"F",
+				"FactoryGirl"
+			],
+			[
+				"bf",
+				"bef	before"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"vi",
+				"visit"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"new_",
+				"new_email"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"P",
+				"Password"
+			],
+			[
+				"so",
+				"should"
+			],
+			[
+				"Sin",
+				"Sign"
+			],
+			[
+				"co",
+				"cookies"
+			],
+			[
+				"rem",
+				"remember_token"
+			],
+			[
+				"fil",
+				"fill_in"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"subm",
+				"submission"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"fla",
+				"flash	flash[…]"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"g",
+				"grayLight"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"gravatar_",
+				"gravatar_url"
+			],
+			[
+				"gr",
+				"gravatar"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"b",
+				"box_sizing"
+			],
+			[
+				"should",
+				"should"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"us",
+				"user_for_invalid_password"
+			],
+			[
+				"sho",
+				"should"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"con",
+				"confirmation"
+			],
+			[
+				"al",
+				"already"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"in",
+				"invalid_address"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"main",
+				"main-footer-01"
+			],
+			[
+				"focu",
+				"focus"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"coco",
+				"Cocoon_Lifestyle_Web_home"
+			],
+			[
+				"ser",
+				"services-01"
+			],
+			[
+				"ga",
+				"gallery"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"set",
+				"section"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/models/micropost.rb",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20130102190815_create_microposts.rb",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/factories.rb",
+			"settings":
+			{
+				"buffer_size": 324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/microposts/_micropost.html.erb",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tasks/sample_data.rake",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/custom.css.scss",
+			"settings":
+			{
+				"buffer_size": 2734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/sessions_helper.rb",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/microposts_controller.rb",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/static_pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_user_info.html.erb",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_micropost_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/static_pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_feed_item.html.erb",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_error_messages.html.erb",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/_fields.html.erb",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/micropost_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/micropost_spec.rb",
+			"settings":
+			{
+				"buffer_size": 956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/user_spec.rb",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 5311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/authentication_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 4592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/muzikayise/workspace/Dev/N/nuno/__sources/settings.txt",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/static_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/helpers/application_helper_spec.rb",
+			"settings":
+			{
+				"buffer_size": 414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/support/utilities.rb",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1270,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"runt test",
+				"RubyTest: Run Last Ruby Test"
+			],
+			[
+				"g",
+				"Guard: Show Guard Output"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browse",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"pr",
+				"Project: Save As"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/controllers/sessions_controller.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/models/micropost_spec.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/config/application.rb",
+		"/home/muzikayise/.config/sublime-text-2/Packages/SideBarEnhancements/readme.md",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/sample_app.sublime-project",
+		"/home/muzikayise/.config/sublime-text-2/Settings/SideBarEnhancements.json",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/users/new.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/users/edit.html.erb",
+		"/home/muzikayise/.config/sublime-text-2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/home/muzikayise/.config/sublime-text-2/Packages/AdvancedNewFile/README.md",
+		"/home/muzikayise/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/muzikayise/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/muzikayise/.config/sublime-text-2/Packages/User/Side Bar.sublime-settings",
+		"/home/muzikayise/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/muzikayise/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/muzikayise/.config/sublime-text-2/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/layouts/_header.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/sessions/new.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/controllers/users_controller.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/users/index.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/users/_user.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/config/routes.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/lib/tasks/sample_data.rake",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/users/_fields.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/migrate/20130102122511_create_mircoposts.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/models/user.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/models/micropost.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/migrate/20130102130854_create_microposts.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/models/mircopost.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/schema.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/models/mircopost_spec.rb",
+		"/home/muzikayise/workspace/Dev/B/Bikerqueen/Docs/bikerqueen - settings.xlsx",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/factories.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/migrate/20130101124232_add_admin_to_users.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/config/database.yml",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/config/environments/production.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/models/user_spec.rb",
+		"/home/muzikayise/.config/sublime-text-2/Packages/RubyTest/Default (Linux).sublime-keymap",
+		"/home/muzikayise/.config/sublime-text-2/Packages/User/RubyTest.sublime-settings",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/helpers/application_helper.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/muzikayise/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/muzikayise/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/home/muzikayise/.config/sublime-text-2/Packages/rails_go_to_spec/Default (Linux).sublime-keymap",
+		"/home/muzikayise/.config/sublime-text-2/Packages/ERB Insert and Toggle Commands/erb_block.py",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/assets/javascripts/application.js",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/controllers/application_controller.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/migrate/20121229173613_add_remember_token_to_users.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/assets/stylesheets/application.css",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/config/environments/test.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/Guardfile",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/Gemfile",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/development.sqlite3",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/db/migrate/20121228095358_add_index_to_users_email.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/helpers/application_helper_spec.rb",
+		"/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/muzikayise/workspace/Dev/N/nuno/uc/index.html",
+		"/home/muzikayise/Music/seven/readme.txt",
+		"/home/muzikayise/SGS2 Backup/roms/jell_bean/I9100XXLSJ_I9100OXXLS1_OXX/I9100XXLSJ_I9100OXXLS1_OXX/CHECKSUM.md5",
+		"/home/muzikayise/workspace/Master Developer/HTML5/vibrant_professional_webdesign_code/final.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/umbraco_live/css/main.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/css/main.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/umbraco_live/css/afap_umbraco_texteditor.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/js/main.js",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/css/960_12_col.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/index_contact.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/umbraco_live/App_Data/umbraco.config",
+		"/home/muzikayise/workspace/Dev/A/AFAP/umbraco_live/Web.config",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/index_3col.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/index_nav.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/js/plugins.js",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/index.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapPartnerDetails.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapReportItem.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapNewsItem.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/~/workspace/Dev/A/AFAP/__sources/umbraco",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapPartnersMain.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afap3ColTemplate.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/template2.html",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/crossdomain.xml",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/css/normalize.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/js/vendor/jquery-1.8.3.min.js",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapHomePagesTemplate.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/__sources/umbraco/afapOtherPagesTemplate.udt",
+		"/home/muzikayise/workspace/Dev/A/AFAP/.git/COMMIT_EDITMSG",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/.gitattributes",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/.gitignore",
+		"/home/muzikayise/workspace/Master Developer/CSS/nathansmith-960-Grid-System-6565528/code/css/960_12_col.css",
+		"/home/muzikayise/workspace/Dev/A/AFAP/css-buttons/index.php",
+		"/home/muzikayise/workspace/Dev/A/AFAP/siteTemplate/js/vendor/jquery.hoverIntent.minified.js",
+		"/home/muzikayise/workspace/Master Developer/CSS/css menu/cssmenu/menu_assets/styles.css",
+		"/home/muzikayise/workspace/Master Developer/Python/learnPythonTheHardWay/ex3.py",
+		"/home/muzikayise/workspace/Dev Tools/gedit/themes/twilight2.xml",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/js/main.js",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/contentPages.html",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/Live/tekoModise10site/themes/tekoModise10/blog_entry.php",
+		"/home/muzikayise/workspace/Master Developer/Javascript/JQuery/slides/Slides/README.textile",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/Live/tekoModise10site/themes/tekoModise10/css/style.css",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/js/vendor/slides.min.jquery.js",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/index.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/contentGallery.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/contentServices.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/contentContactUs.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/contentAboutUs.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/css/style.css",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/Live/tekoModise10site/themes/tekoModise10/js/main.js",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/scripts/JScode_gen.js",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/css/StyleSheet.css",
+		"/home/muzikayise/workspace/Master Developer/Javascript/twitter/jstwitter/jstwitter_latest/index.html",
+		"/home/muzikayise/workspace/Master Developer/Javascript/twitter/jstwitter/jstwitter_latest/twitter.js",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/Live/tekoModise10site/themes/tekoModise10/index.html",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/siteTemplate/hometemplate.html",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/siteTemplate/blogtemplate.html",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/Teko Modese/siteTemplate/index.html",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/css/StyleSheet_Txt.css",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/ContactForm/css/contact.css",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/css/StyleSheet_common.css",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/ContactForm/js/contact.js",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/CareerFirmWebApp/CareerFirmWebApp/ContactForm/js/JScode_products.js",
+		"/home/muzikayise/workspace/Dev/B/Blaq Ink/southwestsystems/site_netbeans/siteTemplate/index.html",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/css/960_12_col.css",
+		"/home/muzikayise/workspace/Dev/C/Cocoon/siteTemplate/js/vendor/jquery-1.7.2.js",
+		"/home/muzikayise/workspace/Dev/C/Careerfirm/2011/careerFirmWeb/umbracoCareerFirmWeb/scripts/js/script.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"Open folder"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ircopost",
+			"Mircopost",
+			"<%",
+			"current_user",
+			"edit_user_path",
+			"}\n",
+			"full_title",
+			"3",
+			"2",
+			"Item 1",
+			"Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1\n",
+			"Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1, Item 1",
+			"before_save",
+			"attr_accessible",
+			"# describe \"with a password that's too short\" do\n\n  #   before { @user.password = @user.password_confirmationn = \"a\" * 51 }\n  #   it { should_not be_valid }\n    \n  # end",
+			"main-h1",
+			"leftImageTxt",
+			"leftImage",
+			"<ul id=\"main-nav-ul\" class=\"main-nav-ul-01\">\n                        <li><a class=\"menu button green\" href=\"/\">HOME</a></li>\n\n                        <li><a class=\"menu button green \" href=\"/what-we-do.aspx\" title=\"@nodeName\">WHAT WE DO</a>\n                        <ul>\n                        <li><a href=\"/what-we-do/apcs.aspx\" title=\"APCs\"><span>APCs</span></a></li>\n\n                        <li><a href=\"/what-we-do/news.aspx\" title=\"News\"><span>News</span></a></li>\n                        </ul>\n                        </li>\n\n                        <li><a class=\"menu button green \" href=\"/who-we-are.aspx\" title=\"@nodeName\">WHO WE ARE</a>\n                        <ul>\n                            <li><a href=\"/who-we-are/board-of-trustees.aspx\" title=\"Board of Trustees\"><span>Board of Trustees</span></a></li>\n                        <li><a href=\"/who-we-are/staff.aspx\" title=\"Staff\"><span>Staff</span></a></li>\n                        <li><a href=\"/who-we-are/partners.aspx\" title=\"Partners\"><span>Partners</span></a></li>\n                        </ul>\n                        </li>\n\n                        <li><a class=\"menu button green \" href=\"/where-we-work.aspx\" title=\"@nodeName\">WHERE WE WORK</a></li>\n                        <li><a class=\"menu button green \" href=\"/contact.aspx\" title=\"@nodeName\">CONTACT</a></li>\n                    </ul>",
+			"submit",
+			"<ul id=\"main-nav-ul\" class=\"main-nav-ul-01\">\n                        <li><a class=\"menu button green active\" href=\"#\">HOME</a></li>\n                        <li>\n                            <a class=\"menu button green\" href=\"#\">WHAT WE DO</a>\n                            <ul>\n                             <li><a href='#' class=\"menu button green\"><span>APC's</span></a></li>\n                             <li><a href='#' class=\"menu button green\"><span>News</span></a></li>\n                             <li><a href='#' class=\"menu button green\"><span>Reports</span></a></li>\n                            </ul>\n                        </li>\n                        <li><a class=\"menu button green\" href=\"#\">WHO WE ARE</a></li>\n                        <li><a class=\"menu button green\" href=\"#\">WHERE WE WORK</a></li>\n                        <li><a class=\"menu button green\" href=\"#\">CONTACT</a></li>\n                    </ul>",
+			"mediaIdFromParent",
+			"macro",
+			"gri_2",
+			"afapStaffMember",
+			"afapBoardMember",
+			"afapNewsItem",
+			"afapNewsMain",
+			"afapStaffMain",
+			"afapBoardMain",
+			"afapReportsMain",
+			"afapNewsMain",
+			"afapStandardTemplate",
+			"afapLeftImageTemplate",
+			"afapHomePagesTemplate",
+			"afapOtherPagesTemplate",
+			"afapPagesTemplate",
+			"clContentPages",
+			"clOtherPagesTemplate",
+			"clhome",
+			"clHomePagesTemplate",
+			"cocoon-slides",
+			"capitalize",
+			"340px",
+			"  $(\"#main-nav li\").mouseenter(function (e) {\n    \n    $(this).children(\"ul:first\").css(\"display\",\"block\");\n\n  }).mouseleave(function(){\n\n    $(this).children(\"ul:first\").css(\"display\",\"none\");\n\n  });",
+			"../Content/Fonts/",
+			"$(document).ready(function () {\n	\n	if ($(clTweets.appendTo).length > 0){\n		// start clTweets!\n		clTweets.loadTweets();\n	}\n});",
+			"overlay",
+			"JQTWEET",
+			"clearfix",
+			"muzi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"icropost",
+			"edit_user_path",
+			"4",
+			"3",
+			"Item 2",
+			"grid_3",
+			"afapPartnerDetails",
+			"afapStaffMember",
+			"afapBoardMember",
+			"afapReportItem",
+			"afapNewsItem",
+			"afapPartnersMain",
+			"afapStaffMain",
+			"afapBoardMain",
+			"afapReportsMain",
+			"afapNewsMain",
+			"afapStandardTemplate",
+			"afapLeftImageTemplate",
+			"afap3ColTemplate",
+			"afapOtherPagesTemplate",
+			"afapContentPages",
+			"afapPagesTemplate",
+			"afapHome",
+			"afapHomePagesTemplate",
+			"afap-slides",
+			"uppercase",
+			"../img/",
+			"clTweets",
+			"muzikayise"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/models/micropost.rb",
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "db/migrate/20130102190815_create_microposts.rb",
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 1058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spec/factories.rb",
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/users/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/microposts/_micropost.html.erb",
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/tasks/sample_data.rake",
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"settings":
+					{
+						"buffer_size": 2734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2226,
+								2226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2907.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/helpers/sessions_helper.rb",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/controllers/microposts_controller.rb",
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/views/static_pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/views/shared/_user_info.html.erb",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/views/shared/_micropost_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/controllers/static_pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/views/shared/_feed_item.html.erb",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/views/shared/_error_messages.html.erb",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/views/users/_fields.html.erb",
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 21,
+					"file": "spec/requests/micropost_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "spec/models/micropost_spec.rb",
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								942,
+								942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "spec/models/user_spec.rb",
+					"settings":
+					{
+						"buffer_size": 5005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3844,
+								3844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2805.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "spec/requests/user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 5311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2150,
+								2150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "spec/requests/authentication_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 4592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2209,
+								2209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/home/muzikayise/workspace/Dev/N/nuno/__sources/settings.txt",
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "spec/requests/static_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "spec/helpers/application_helper_spec.rb",
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "spec/support/utilities.rb",
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"settings":
+					{
+						"buffer_size": 2734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2325,
+								2325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2605.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.guard":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"stag",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"fi",
+				"app/views/users/_fields.html.erb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"_err",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"sta",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"mic",
+				"spec/requests/micropost_pages_spec.rb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"se",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"saml",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"fa",
+				"spec/factories.rb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"ne",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"mi",
+				"app/models/micropost.rb"
+			],
+			[
+				"he",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"d.",
+				"config/database.yml"
+			],
+			[
+				"use",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_u",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"user_pa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"sam",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"add",
+				"db/migrate/20130101124232_add_admin_to_users.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"_he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"user_co",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userspec",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
+			],
+			[
+				"session",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"ses",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessio",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"auth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"us",
+				"app/models/user.rb"
+			],
+			[
+				"application.j",
+				"sample_app/app/assets/javascripts/application.js"
+			],
+			[
+				"_hed",
+				"sample_app/app/views/layouts/_header.html.erb"
+			],
+			[
+				"add_re",
+				"sample_app/db/migrate/20121229173613_add_remember_token_to_users.rb"
+			],
+			[
+				"application.rb",
+				"sample_app/app/controllers/application_controller.rb"
+			],
+			[
+				"en",
+				"sample_app/config/locales/en.yml"
+			],
+			[
+				"ap",
+				"sample_app/app/assets/stylesheets/application.css"
+			],
+			[
+				"prod",
+				"sample_app/config/environments/production.rb"
+			],
+			[
+				"user_con",
+				"sample_app/app/controllers/users_controller.rb"
+			],
+			[
+				"hel",
+				"sample_app/app/helpers/users_helper.rb"
+			],
+			[
+				"test",
+				"sample_app/config/environments/test.rb"
+			],
+			[
+				"route",
+				"sample_app/config/routes.rb"
+			],
+			[
+				"cus",
+				"sample_app/app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"application",
+				"sample_app/app/views/layouts/application.html.erb"
+			],
+			[
+				"y",
+				"sample_app/config/database.yml"
+			],
+			[
+				"g",
+				"sample_app/Guardfile"
+			],
+			[
+				"guardfile",
+				"sample_app/Guardfile"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"ind",
+				"index_3col.html"
+			],
+			[
+				"96",
+				"css/960_12_col.css"
+			],
+			[
+				"960",
+				"css/960_12_col.css"
+			],
+			[
+				"cc",
+				"css/main.css"
+			],
+			[
+				"pl",
+				"js/plugins.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"jquery-1.8.3.min.js",
+				"js/vendor/jquery-1.8.3.min.js"
+			],
+			[
+				"no",
+				"css/normalize.css"
+			],
+			[
+				"mai",
+				"css/main.css"
+			],
+			[
+				"cro",
+				"crossdomain.xml"
+			],
+			[
+				"te",
+				"template2.html"
+			],
+			[
+				"ho",
+				"js/vendor/jquery.hoverIntent.minified.js"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"j",
+				"js/vendor/jquery-1.7.2.js"
+			],
+			[
+				"9",
+				"css/960_12_col.css"
+			],
+			[
+				"",
+				"css/960_12_col.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}

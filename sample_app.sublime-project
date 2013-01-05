@@ -1,0 +1,12 @@
+{
+  "/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app":{
+    "url_testing":"http://0.0.0.0:3000/",
+    "url_production":"https://whispering-dawn-4044.herokuapp.com/"
+  },
+	"folders":
+	[
+		{
+			"path": "/home/muzikayise/workspace/Master Developer/Ruby on Rails/rails projects/sample_app"
+		}
+	]
+}
