@@ -154,8 +154,8 @@ describe "User Page" do
       it { should have_selector('div.pagination') }
       
       it "should list each user" do
-        User.paginate(page: 1) do |user|
-          page.should have_selector('li', text: user.name)
+        User.paginate(page: 1) do |u|
+          page.should have_selector('li', text: u.name)
         end
       end
     end

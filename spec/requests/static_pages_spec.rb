@@ -24,9 +24,55 @@ describe "Static Pages" do
         user.feed.each do |item|
           page.should have_selector("li##{item.id}", text: item.content)
         end
+
+      end
+
+      describe "micropost pagination" do
+        
+        before(:all) { 50.times { FactoryGirl.create(:micropost, user: user, content: "Lorem ipsum") } }
+        after(:all) { Micropost.delete_all }
+
+        it { should have_selector('div.pagination') }
+
+        it "should list each micropost" do
+          user.feed.paginate(page: 1) do |mp|
+            page.should have_selector('span.user', text: mp.user.name)
+            page.should have_selector('span.content', text: mp.content)
+            page.should have_selector('span.timestamp', text:"Posted #{time_ago_in_words(mp.created_at)} ago")
+          end
+        end
+
+      end
+
+    end
+
+    describe "microposts count for signed-in users" do
+      let(:user) { FactoryGirl.create(:user) }
+      describe "should be pluralised" do
+        before do
+          FactoryGirl.create(:micropost, user: user, content: "Lorem ipsum")
+          FactoryGirl.create(:micropost, user: user, content: "Dolor sit amet")
+          sign_in user
+          visit root_path
+        end
+        
+        it { should have_selector("span", text: "#{user.feed.count} microposts") }
+
       end
       
+      describe "should not be pluralised" do
+        before do
+          FactoryGirl.create(:micropost, user: user, content: "Lorem ipsum")
+          sign_in user
+          visit root_path
+        end
+
+        it { should have_selector("span", text: "#{user.feed.count} micropost") }
+
+      end
+
     end
+
   end
 
   describe "Help page" do

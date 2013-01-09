@@ -42,5 +42,20 @@ describe "Micropost pages" do
 
     end
 
+    describe "as incorrect user" do
+      let(:other_user) { FactoryGirl.create(:user, name: "Bob", email: "bob@example.com")  }
+      before do
+        FactoryGirl.create(:micropost, user: other_user)    
+        visit user_path(other_user)
+      end
+
+      it "should not have delete link" do
+
+        page.should_not have_link('delete')
+        
+      end
+
+    end
+
   end
 end
